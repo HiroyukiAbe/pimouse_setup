@@ -1,5 +1,9 @@
 #!/bin/bash -xve
-#Written by Hiroyui Abe
+<<<<<<< HEAD
+#Written by Hiroyuki Abe
+=======
+#Written by Hiroyuki Abe
+>>>>>>> e44123a4ccaf95960ea28e0daba8fd2f493200c1
 
 exec 2> /tmp/setup.log
 
